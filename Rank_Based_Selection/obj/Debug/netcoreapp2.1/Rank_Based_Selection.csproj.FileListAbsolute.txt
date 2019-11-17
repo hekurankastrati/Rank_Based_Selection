@@ -1,0 +1,11 @@
+/Users/hekurankastrati/Projects/Rank_Based_Selection/Rank_Based_Selection/bin/Debug/netcoreapp2.1/Rank_Based_Selection.deps.json
+/Users/hekurankastrati/Projects/Rank_Based_Selection/Rank_Based_Selection/bin/Debug/netcoreapp2.1/Rank_Based_Selection.runtimeconfig.json
+/Users/hekurankastrati/Projects/Rank_Based_Selection/Rank_Based_Selection/bin/Debug/netcoreapp2.1/Rank_Based_Selection.runtimeconfig.dev.json
+/Users/hekurankastrati/Projects/Rank_Based_Selection/Rank_Based_Selection/bin/Debug/netcoreapp2.1/Rank_Based_Selection.dll
+/Users/hekurankastrati/Projects/Rank_Based_Selection/Rank_Based_Selection/bin/Debug/netcoreapp2.1/Rank_Based_Selection.pdb
+/Users/hekurankastrati/Projects/Rank_Based_Selection/Rank_Based_Selection/obj/Debug/netcoreapp2.1/Rank_Based_Selection.csprojAssemblyReference.cache
+/Users/hekurankastrati/Projects/Rank_Based_Selection/Rank_Based_Selection/obj/Debug/netcoreapp2.1/Rank_Based_Selection.csproj.CoreCompileInputs.cache
+/Users/hekurankastrati/Projects/Rank_Based_Selection/Rank_Based_Selection/obj/Debug/netcoreapp2.1/Rank_Based_Selection.AssemblyInfoInputs.cache
+/Users/hekurankastrati/Projects/Rank_Based_Selection/Rank_Based_Selection/obj/Debug/netcoreapp2.1/Rank_Based_Selection.AssemblyInfo.cs
+/Users/hekurankastrati/Projects/Rank_Based_Selection/Rank_Based_Selection/obj/Debug/netcoreapp2.1/Rank_Based_Selection.dll
+/Users/hekurankastrati/Projects/Rank_Based_Selection/Rank_Based_Selection/obj/Debug/netcoreapp2.1/Rank_Based_Selection.pdb
